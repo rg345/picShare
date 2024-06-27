@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Picter
 
 > A photo sharing application made using PERN stack
@@ -35,3 +36,6 @@ Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 npm run dev // Run nodemon dev server.
 npm start // Start the app.
 ```
+=======
+# picShare
+>>>>>>> origin/main
